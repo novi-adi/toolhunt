@@ -13,3 +13,7 @@ bun run dev
 ```
 
 Open http://localhost:3000/ with your browser to see the result.
+
+## Screenshot Project
+
+![App Screenshot](https://raw.githubusercontent.com/novi-adi/toolhunt/refs/heads/main/public/images/screenshoot-toolhunt.png 'Screenshot of the app')
